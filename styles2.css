@@ -1,0 +1,56 @@
+body{
+    background-color: orangered;
+    color: blue;
+   font-family: 'Franklin Gothic Medium;
+   
+}
+
+h1{
+    color: blue;
+    text-align: center;
+
+}
+
+p{
+    color: blueviolet;
+    text-align: center;
+    font-family: serif;
+}
+
+.car1{
+    color: green;
+    text-align: right;
+
+}
+
+
+.car2{
+    color: black;
+    text-align: right;
+}
+
+
+#car3{
+    color: yellow;
+    text-align: left;
+}
+
+#car4{
+    color: chartreuse;
+    text-align: left;
+}
+
+
+.box{
+    border: 2px dashed rgb(189, 226, 22);
+    margin: 40px;
+    padding: 10px;
+    background-color: orangered;
+    color: aliceblue;
+}
+
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}

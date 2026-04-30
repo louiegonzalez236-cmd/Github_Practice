@@ -1,0 +1,56 @@
+body{
+    font-family: Arial;
+    background-color: cadetblue;
+
+
+}
+
+h1{
+    color: crimson;
+    text-align: center;
+}
+
+p{
+color: darkmagenta;
+font-family: courier;
+text-align: center;
+
+}
+
+button{
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 10px;
+}
+
+
+.first{
+    color: blue;
+text-align: center;
+}
+
+.Second{
+    color: chartreuse;
+    text-align: justify;
+}
+
+#FirstID{
+    color: rgb(3, 24, 43);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.box{
+    border: 2px solid rgb(189, 226, 22);
+    margin: 40px;
+    padding: 10px;
+    background-color: orangered;
+    color: aliceblue;
+}
+
+
+.Firstdiv{
+    display: flex;
+    justify-content: space-between;
+
+}
