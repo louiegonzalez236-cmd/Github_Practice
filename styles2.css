@@ -49,6 +49,21 @@ p{
     color: aliceblue;
 }
 
+.box2{
+    border: 2px solid rgb(189, 226, 22);
+    margin: 40px;
+    padding: 10px;
+    background-color: orangered;
+    color: aliceblue;
+}
+
+.box3{
+    border: 2px outset rgb(189, 226, 22);
+    margin: 40px;
+    padding: 10px;
+    background-color: orangered;
+    color: aliceblue;
+}
 
 .container{
     display: flex;
